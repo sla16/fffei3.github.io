@@ -1,7 +1,7 @@
 site: Index Jekyll Theme
 
 url: https://index.jekyllthemes.io
-baseurl: "fffei3.github.io"
+baseurl: ""
 
 collections:
   pages:
