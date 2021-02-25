@@ -36,7 +36,7 @@ It might hurt a certain person or a group through our implicit actions verbally 
 
 Leverage technology to help people notice and rethink their microaggression behavior in real time, educate and inform people to interact better with each other.
 
-![](images/micro_concept.png){:height="700px" width="700px"}.
+![](images/micro_concept.png)
 
 ---
 
