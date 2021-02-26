@@ -5,7 +5,10 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<h1>Hi! Nice to meet you.</h1>
+<h1>Hi!👋</h1>
+<h1>Nice to meet you.</h1>
+
+<br>
 
 I'm Feifei, <br>
 a product designer currently based in Boston,<br>
@@ -16,4 +19,6 @@ and always a learner.<br>
 
 Have a project in mind or just come say hi? I’d love to connect with you. Shoot me an email @ [fffeiguo@gmail.com](mailto:fffeiguo@gmail.com). if you're interested in getting in touch😊
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get the resume</a>
+<br/><br/>
+
+<a href="/images/FeifeiGuo_CV.pdf" class="button button--large">Get the resume</a>

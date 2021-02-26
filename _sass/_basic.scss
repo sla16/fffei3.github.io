@@ -215,7 +215,7 @@ a {
 }
 
 .button {
-	display: inline-block;
+	display: inline;
 	padding: 9px 10px 10px;
 	font-size: 13px;
 	line-height: 1;
@@ -224,7 +224,7 @@ a {
 	color: $background-color;
 	font-weight: $button-weight;
 	letter-spacing: $button-spacing;
-	cursor: url('../images/cursor.PNG'), auto;
+	cursor: pointer;
 	height: 100vh;
 
 	@include mq(tabletp) {

@@ -35,7 +35,7 @@ It might hurt a certain person or a group through our implicit actions verbally 
 
 Leverage technology to help people notice and rethink their microaggression behavior in real time, educate and inform people to interact better with each other.
 
-![](/images/micro_concept.png)
+![](/images/micro_concept.png){:height="700px" width="700px"}.
 
 ---
 
@@ -105,7 +105,7 @@ Track long-term microaggression stats
 ## My process
 I started with establishing a tangible design process in the early stage to have a clear and specific scope about the necessary phases of thesis project and breakdown to the tasks for each week and each day.
 
-![](/images/micro_processoverview.png){:height="700px" width="700px"}.
+![](/images/micro_processoverview.png){:height="800px" width="800px"}.
 
 <br/>
 
