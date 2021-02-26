@@ -17,8 +17,7 @@ Adam Smith, Miguel Cardona
 ## Role
 Concept, Research, UI, UX, Animation, Testing
 
-
-![](images/micro2.png)
+![](/images/micro2.png)
 
 ## The prompt
 Help people aware of microaggressions and change their behavior in daily communication
@@ -36,7 +35,7 @@ It might hurt a certain person or a group through our implicit actions verbally 
 
 Leverage technology to help people notice and rethink their microaggression behavior in real time, educate and inform people to interact better with each other.
 
-![](images/micro_concept.png)
+![](/images/micro_concept.png)
 
 ---
 

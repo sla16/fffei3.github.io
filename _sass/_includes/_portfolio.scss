@@ -30,6 +30,7 @@
 			.portfolio-item__content {
 				opacity: 1;
 				visibility: visible;
+				background-color: black;
 			}
 		}
 	}
@@ -49,11 +50,12 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	background: url("images/ilead2.png") no-repeat;
 	background: rgba($overlay-background-color, $overlay-opacity);
 
 	opacity: 0;
 	visibility: hidden;
-	@include transition(all 0.2s ease-in-out);
+	@include transition(all 0.1s ease-in-out);
 }
 
 .portfolio-item__info {

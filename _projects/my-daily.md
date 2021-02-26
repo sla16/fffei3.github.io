@@ -60,8 +60,6 @@ I did research about some task planning, habit forming products and got some ins
 
 ![](/images/daily_competitor.png)
 
-<br/><br/>
-
 ## Persona
 
 ![](/images/daily_persona.png)
