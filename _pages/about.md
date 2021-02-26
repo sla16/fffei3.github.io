@@ -21,4 +21,4 @@ Have a project in mind or just come say hi? I’d love to connect with you. Shoo
 
 <br/><br/>
 
-<a href="fffei3.github.io/CV.pdf" class="button button--large" target="_blank">Get the resume</a>
+<a href="CV.pdf" class="button button--large" target="_blank">Get the resume</a>
