@@ -7,3 +7,6 @@ featured_image: '/images/kayak1.png'
 ---
 
 ![](/images/kayak2.png)
+
+<h2>Coming soon...</h2>
+
