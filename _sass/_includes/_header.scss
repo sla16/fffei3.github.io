@@ -27,12 +27,12 @@
 }
 
 .header__content {
-	width: 70%;
+	width: 60%;
 
 	@include mq(tabletl) {
 		position: relative;
 		min-height: 100vh;
-		padding: 40px 40px 135px;
+		padding: 30px 30px 135px;
 	}
 
 	@include mq(laptop) {
@@ -121,8 +121,8 @@
 	color: $text-dark-color;
 
 	@include mq(tabletp) {
-		top: 40px;
-		right: 40px;
+		top: 30px;
+		right: 30px;
 	}
 	
 	@include mq(tabletl) {
@@ -140,7 +140,7 @@
 	span, span:before, span:after {
 		content: '';
 		position: absolute;
-		top: 8px;
+		top: 20px;
 		left: 0;
 		width: 100%;
 		height: 3px;
@@ -214,7 +214,7 @@
 	list-style: none;
 	margin: 0 auto;
 	padding: 12px 20px;
-	line-height: 30px;
+	line-height: 22px;
 
 	@include mq(tabletp) {
 		padding: 30px 40px;
@@ -227,7 +227,7 @@
 }
 
 .menu__list__item {
-	padding: 4px 0px;
+	padding: 8px 0px;
 }
 
 .menu__list__item__link {

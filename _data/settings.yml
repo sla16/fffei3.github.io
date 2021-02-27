@@ -90,8 +90,8 @@ font_settings:
     line_height: 1.5
   menu:
     small_size: 16
-    medium_size: 16
-    large_size: 16
+    medium_size: 14
+    large_size: 15
     weight: 400
     letter_spacing: 0
   grid_item_title:

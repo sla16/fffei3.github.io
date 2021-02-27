@@ -31,7 +31,7 @@ Design a system for college students who feel difficult to organize and balance 
 * Sync your calendar schedule in one platform
 * Give personalized suggestions based on the needs
 
-![](/images/daily_flow1.gif){:height="400px" width="400px"}.
+![](/images/daily_flow1.gif){:height="300px" width="300px"}.
 
 
 **Stay forcused on your task**
@@ -39,19 +39,21 @@ Design a system for college students who feel difficult to organize and balance 
 * Help get one thing done at a time without distraction
 * Relaxing animation and sound
 
-![](/images/daily_flow2.gif){:height="400px" width="400px"}.
+![](/images/daily_flow2.gif){:height="300px" width="300px"}.
 
 
 **Doing overtime? Don't worry**
 * Quickly add extra time to complete task
 * Engaging interactions
 
-![](/images/daily_flow3.gif){:height="400px" width="400px"}.
+![](/images/daily_flow3.gif){:height="300px" width="300px"}.
 
 
 **Get well-organized**
 * Add your additional task easily
 * Drag and drop to prioritize for your urgnent things
+
+![](/images/daily_flow4.gif){:height="300px" width="300px"}.
 
 ---
 
