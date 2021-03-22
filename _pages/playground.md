@@ -5,7 +5,6 @@ description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 <div class="gallery" data-columns="3">
-    <img src="/images/play14.jpg">
     <img src="/images/play13.gif">
     <img src="/images/play12.gif">
 	<img src="/images/play11.gif">
@@ -19,6 +18,11 @@ featured_image: /images/demo/demo-landscape.jpg
     <img src="/images/play5.gif">
     <img src="/images/play6.gif">
     <img src="/images/play7.gif">
+    <img src="/images/play14.jpg">
+    <img src="/images/play15.jpg">
+    <img src="/images/play16.jpg">
+    <img src="/images/play17.jpg">
+
 </div>
 
 
